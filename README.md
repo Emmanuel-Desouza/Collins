@@ -1,2 +1,2 @@
-# Collins
+# Test Repo
 Git clone test
